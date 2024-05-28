@@ -1,0 +1,3 @@
+tldcreate{
+  $domainname.hl
+}

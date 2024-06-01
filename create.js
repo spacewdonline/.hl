@@ -1,3 +1,2 @@
-tldcreate{
-  $domainname.hl
-}
+let tldcreate
+tldcreate = '$domainname.hl'

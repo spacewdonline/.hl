@@ -5,4 +5,4 @@ For various extreme safety reasons i am not accepting other registrations than m
 # What does "HL" stand for?
 The abbreviation "HL" can stand for many things, in this case, since i am a Valve fan, it stands for Half-Life. This project is not affiliated with Valve.
 # Can i fork this project to make my own TLD?
-no, you may not fork this project as 1. this is a test and 2. if someone just blatently copies my project and puts the website online for people to make their own domains then someone could be harmed from scams and i really do not want that so if you fork it anyway, then i will request you to take it down and never fork it again.
+No, you may not fork this project as 1. this is a test and 2. if someone just blatently copies my project and puts the website online for people to make their own domains then someone could be harmed from scams and i really do not want that so if you fork it anyway, then i will request you to take it down and never fork it again. Another option would to make your own and use mine as an inspiration. You may even make a better code!

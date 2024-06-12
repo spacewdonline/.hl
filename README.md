@@ -1,8 +1,8 @@
-# What is the point of this?
-This is a test to see if JavaScript and HTML can power a domain host.
-# Can I register my own domain?
-For various extreme safety reasons i am not accepting other registrations than my own.
-# What does "HL" stand for?
-The abbreviation "HL" can stand for many things, in this case, since i am a Valve fan, it stands for Half-Life. This project is not affiliated with Valve.
-# Can i fork this project to make my own TLD?
-No, you may not fork this project as 1. this is a test and 2. if someone just blatently copies my project and puts the website online for people to make their own domains then someone could be harmed from scams and i really do not want that so if you fork it anyway, then i will request you to take it down and never fork it again. Another option would to make your own and use mine as an inspiration. You may even make a better code!
+# PLEASE DO NOT FORK THIS REPOSITORY! THIS IS ONLY AN EXPERIMENT AND WE DO NOT WANT TO BE PREMATURELY SHUT DOWN BECAUSE PEOPLE MADE SCAM SITES OUT OF THE ENGINE.
+# About
+This is a work in progress experiment to power custom .hl domains and verify that it is possible to create a system that hosts things like .com or .net with .json files and .js files that link here to power the domains.
+# What does hl stand for?
+It stands for Half-Life. We are not affiliated with Valve Corperation.
+# TAKEDOWN REQUESTS
+We currently don't have a buisiness email but you can email us here: eagnetforums@gmail.com
+# NOTE: DO NOT IMPERSONATE ICANN, IANA, OR VALVE. WE WILL NOT RESPOND TO IMPERSONATORS.
